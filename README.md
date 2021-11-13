@@ -22,7 +22,7 @@ I am a first year PhD student of the Department of Electrical & Computer Enginee
 ![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshtamboli&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dipeshtamboli&repo=domain-shift)](https://github.com/Dipeshtamboli/domain-shift)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dipeshtamboli&repo=domain-shift)](https://github.com/Dipeshtamboli/domain-shift) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshtamboli)](https://github.com/Dipeshtamboli) -->
