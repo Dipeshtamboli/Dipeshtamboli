@@ -30,5 +30,17 @@ LLM & foundation-model alignment (including test-time alignment) · privacy-pres
 - [**Interactive-GradCAM**](https://github.com/Dipeshtamboli/Interactive-GradCAM) — plug-and-play Grad-CAM visualization notebooks (COCO / ImageNet)
 - [**GPU-Benchmarking**](https://github.com/Dipeshtamboli/GPU-Benchmarking) — benchmark GPU throughput across model architectures
 
-### 📊 GitHub activity
-[![GitHub streak](https://streak-stats.demolab.com/?user=Dipeshtamboli&hide_border=true&theme=default)](https://github.com/Dipeshtamboli)
+### 📊 GitHub stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipeshtamboli&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipeshtamboli&theme=default" alt="Dipesh's GitHub stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipeshtamboli&theme=github_dark" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipeshtamboli&theme=default" alt="Top languages by repository" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipeshtamboli&theme=github_dark" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipeshtamboli&theme=default" alt="Top languages by commits" />
+</picture>
