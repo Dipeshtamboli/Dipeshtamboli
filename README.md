@@ -35,12 +35,3 @@ LLM & foundation-model alignment (including test-time alignment) · privacy-pres
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipeshtamboli&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipeshtamboli&theme=default" alt="Dipesh's GitHub stats" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipeshtamboli&theme=github_dark" />
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipeshtamboli&theme=default" alt="Top languages by repository" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipeshtamboli&theme=github_dark" />
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipeshtamboli&theme=default" alt="Top languages by commits" />
-</picture>
