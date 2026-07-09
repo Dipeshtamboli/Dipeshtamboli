@@ -30,8 +30,5 @@ LLM & foundation-model alignment (including test-time alignment) · privacy-pres
 - [**Interactive-GradCAM**](https://github.com/Dipeshtamboli/Interactive-GradCAM) — plug-and-play Grad-CAM visualization notebooks (COCO / ImageNet)
 - [**GPU-Benchmarking**](https://github.com/Dipeshtamboli/GPU-Benchmarking) — benchmark GPU throughput across model architectures
 
-### 📊 GitHub stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipeshtamboli&show_icons=true&hide_border=true&count_private=true" alt="Dipesh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshtamboli&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+### 📊 GitHub activity
+[![GitHub streak](https://streak-stats.demolab.com/?user=Dipeshtamboli&hide_border=true&theme=default)](https://github.com/Dipeshtamboli)
