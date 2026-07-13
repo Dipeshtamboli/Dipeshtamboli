@@ -30,8 +30,9 @@ LLM & foundation-model alignment (including test-time alignment) · privacy-pres
 - [**Interactive-GradCAM**](https://github.com/Dipeshtamboli/Interactive-GradCAM) — plug-and-play Grad-CAM visualization notebooks (COCO / ImageNet)
 - [**GPU-Benchmarking**](https://github.com/Dipeshtamboli/GPU-Benchmarking) — benchmark GPU throughput across model architectures
 
-### 📊 GitHub stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipeshtamboli&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipeshtamboli&theme=default" alt="Dipesh's GitHub stats" />
-</picture>
+### 📊 GitHub
+[![Followers](https://img.shields.io/github/followers/Dipeshtamboli?label=Followers&style=social)](https://github.com/Dipeshtamboli?tab=followers)
+&nbsp;
+[![Top repo stars](https://img.shields.io/github/stars/Dipeshtamboli/Image-Classification-and-Localization-using-Multiple-Instance-Learning?style=social)](https://github.com/Dipeshtamboli/Image-Classification-and-Localization-using-Multiple-Instance-Learning)
+
+<sub>📈 Activity and contribution graph below.</sub>
