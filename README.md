@@ -33,6 +33,6 @@ LLM & foundation-model alignment (including test-time alignment) · privacy-pres
 ### 📊 GitHub
 [![Followers](https://img.shields.io/github/followers/Dipeshtamboli?label=Followers&style=social)](https://github.com/Dipeshtamboli?tab=followers)
 &nbsp;
-[![Top repo stars](https://img.shields.io/github/stars/Dipeshtamboli/Image-Classification-and-Localization-using-Multiple-Instance-Learning?style=social)](https://github.com/Dipeshtamboli/Image-Classification-and-Localization-using-Multiple-Instance-Learning)
+[![Total stars](https://img.shields.io/badge/Total%20stars-110-2ea44f?logo=github&logoColor=white)](https://github.com/Dipeshtamboli?tab=repositories)
 
 <sub>📈 Activity and contribution graph below.</sub>
